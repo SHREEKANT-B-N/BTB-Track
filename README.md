@@ -7,9 +7,12 @@ BTB Track is a smart tracking and management system designed to monitor, organiz
 📈 Progress visualization and insights
 🔐 Secure and scalable system
 🛠️ Technologies Used
+
 Frontend: HTML, CSS, JavaScript
 Backend: (Node.js / Java / Python – update based on your project)
 Database: (MySQL / MongoDB – update accordingly)
+
+
 🎯 Purpose
 
 The goal of BTB Track is to simplify tracking processes and improve productivity by providing clear insights and better control over tasks and data.
